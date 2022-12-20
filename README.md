@@ -1,10 +1,10 @@
-# Windows Video Links
+# Windows Links
 
 
 ---
 
 
-## Windows Hardening
+## Windows Hardening (Video)
 
 Found on Youtube
 
@@ -18,7 +18,7 @@ Found on Youtube
 ---
 
 
-## Windows Server Hardening
+## Windows Server Hardening (Video)
 
 Found on Youtube
 
