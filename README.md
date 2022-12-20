@@ -1,7 +1,34 @@
-Windows Hardening Videos:
-Cp Round 1 windows 10
-https://www.youtube.com/watch?v=BDyVa8wOo1c&list=LL&index=1
-Securing Windows 10
-https://www.youtube.com/watch?v=tZI_dfxEM8E&list=LL&index=5
-Cp Image Vlog
-https://www.youtube.com/watch?v=3BOE35IFODw&list=LL&index=2
+# Windows Video Links
+
+
+> This is a ReadMe template to help save you time and effort.
+
+---
+
+
+## Windows Hardening
+
+Found on Youtube
+
+#### Image Vlogs round 1
+
+- https://www.youtube.com/watch?v=3BOE35IFODw&list=LL&index=2
+- https://www.youtube.com/watch?v=BDyVa8wOo1c&list=LL&index=1
+
+#### General Windows Help
+-https://www.youtube.com/watch?v=tZI_dfxEM8E&list=LL&index=5
+---
+
+
+## Windows Server Hardening
+
+Found on Youtube
+
+#### Image Vlogs round 1
+
+- https://www.youtube.com/watch?v=OptRHu7VYLI&list=LL&index=6
+- https://www.youtube.com/watch?v=FquqiffgWTg&list=LL&index=4
+- https://www.youtube.com/watch?v=eubDdu9n_Ko&list=LL&index=3
+
+
+---
