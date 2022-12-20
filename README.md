@@ -32,3 +32,11 @@ Found on Youtube
 - https://www.youtube.com/playlist?list=PL97eku0e4y8fR9vIkq8F8DZJuVscfxpHZ
 
 ---
+## General Help Websites
+- https://www.hysolate.com/learn/os-isolation/windows-hardening-checklist-for-windows-server-windows-10/
+- https://learn.microsoft.com/en-us/answers/questions/112291/windows-2019-hardening-guide.html
+- https://resources.infosecinstitute.com/topic/windows-10-hardening-techniques/
+
+
+
+
