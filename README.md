@@ -28,7 +28,7 @@ Found on Youtube
 - https://www.youtube.com/watch?v=FquqiffgWTg&list=LL&index=4
 - https://www.youtube.com/watch?v=eubDdu9n_Ko&list=LL&index=3
 
-#### Plylist for Server Help
+#### Playlist for Server Help
 - https://www.youtube.com/playlist?list=PL97eku0e4y8fR9vIkq8F8DZJuVscfxpHZ
 
 ---
