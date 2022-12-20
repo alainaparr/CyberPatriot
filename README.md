@@ -1,8 +1,6 @@
 # Windows Video Links
 
 
-> This is a ReadMe template to help save you time and effort.
-
 ---
 
 
@@ -16,7 +14,7 @@ Found on Youtube
 - https://www.youtube.com/watch?v=BDyVa8wOo1c&list=LL&index=1
 
 #### General Windows Help
--https://www.youtube.com/watch?v=tZI_dfxEM8E&list=LL&index=5
+- https://www.youtube.com/watch?v=tZI_dfxEM8E&list=LL&index=5
 ---
 
 
